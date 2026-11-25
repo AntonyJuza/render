@@ -10,6 +10,18 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "NaniteDisplacedMesh",
+			"Enabled": true
+		},
+		{
+			"Name": "NaniteAssemblyEditorUtils",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraNanite",
+			"Enabled": true
 		}
 	]
 }
